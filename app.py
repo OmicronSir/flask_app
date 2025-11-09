@@ -4,4 +4,5 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return "Привет из PythonAnywhere!"
+    return "Обновлённая версия приложения!"
+
